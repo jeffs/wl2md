@@ -23,4 +23,5 @@ wl2md ~/*.webloc > ~/links.md   # or wherever you have/want your files
 
 ## TO DO
 
-Add `package.json`, and publish to NPM.
+* Add `package.json`, and publish to NPM.
+* Process `*.webloc` by default
