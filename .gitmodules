@@ -1,3 +1,3 @@
 [submodule "submodules/webloc-parser"]
 	path = submodules/webloc-parser
-	url = git@github.com:jeffs/webloc-parser.git
+	url = https://github.com/jeffs/webloc-parser.git
